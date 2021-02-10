@@ -2,8 +2,7 @@
 title: Dracula.logseq
 ---
 
-## ## 基本信息
-
+## 基本信息
 ### GitHub：https://github.com/akhater/Dracula.logseq/
 ## css代码
 ###
