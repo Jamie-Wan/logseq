@@ -2,8 +2,7 @@
 title: Dracula for Logseq
 ---
 
-## ## 基本信息
-
+## 基本信息
 ### 网站主页：https://draculatheme.com/
 ### GitHub源：https://github.com/dracula/logseq
 ## css代码
